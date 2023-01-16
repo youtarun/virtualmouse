@@ -3,7 +3,9 @@ import cv2
 import mouse
 import numpy as np
 import math
-import wx
+
+
+
 
 try:
     del app;
